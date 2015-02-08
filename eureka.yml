@@ -4,6 +4,7 @@ server:
 logging:
   level:
     com.netflix.discovery: 'OFF'
+    com.netflix.eureka.InstanceRegistry: 'OFF'
 
 eureka:
   client:
