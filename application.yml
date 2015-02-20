@@ -1,7 +1,8 @@
-jpa:
-  properties:
-    jadira:
-      usertype:
-        autoRegisterUserTypes: true
-        javaZone: jvm
-        databaseZone: jvm
+spring:
+  jpa:
+    properties:
+      jadira:
+        usertype:
+          autoRegisterUserTypes: true
+          javaZone: jvm
+          databaseZone: jvm
