@@ -2,5 +2,5 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/organizer
     username: org_user
-    password: '{cipher}AQADpxViq0JPuO9sCWklR4eXuEexzZ5be4DL5L4igR3oLPwaKEsiHdYb+hkiMAK3me5vQruI3cYaQmKKKBexG4tVDVtDBmzlK9jrn9YXZSdUjnsBvUH80+9ihXwh6anR7q1BgmtTPdWGYic0wfcTuj+CGCOiJUAbLAa4MuXbGKxWN1yVJ/ydiNu7R9FPaIUFwevmCaeAVtzeBL/Yy7QIYxVhiEtapTmQCZf8pOUKIqCNACe8hR24cVKhZq6cUZGwoLMDjb8uxVVCJ4vlq2lw1WuxzOQXrcG2IHi3rkhdGp0ky03nfT5KTPxpW6b5F1SG/XGCNEIGyYCEGAe7uew4Z7V3Q3bSqVkUO0t9NmMx1YKOtWvvQKjh771wSZiq+qWvIug='
+    password: '{cipher}AQCUor76idQruJD+Gdg5+juUJXi5pauF/oonnvFWs5PmEO4MpD+yt2WibfCfSilFVRWbpqHTJb9UdVSdOioX/Skbwm1hFXc5UThJYQAr4tfkE9nJzQ8hx/yS1DrcQbeyBMsgw2JKI7N6U6yV32zWV52MSLemFbHB1oLMirF5SLna1riWpfk+pSePpPG8pq0seFLY3L5gHO9IYHzcFNYl757bFVhnCNH/e3VtFDugAzEsIcGa04q9OdWFRHA/ChaXRJSZdKVSn2ttmQh81zkeroyov9e3KcVdABRaoREr8O//Xla3jXywMqiav94CwTNrp+1XslWs+vRB+zCssIVjzLeQZK6p3Ze7ZWMSHs0Kyop+CUevsB/TaqL3LEsI+tnkRDI='
     driverClassName: com.mysql.jdbc.Driver
