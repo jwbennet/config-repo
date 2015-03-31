@@ -6,3 +6,8 @@ spring:
           autoRegisterUserTypes: true
           javaZone: jvm
           databaseZone: jvm
+logging:
+  level:
+    com.netflix.discovery: 'OFF'
+    org.springframework.cloud: 'DEBUG'
+    org.springframework.cloud.netflix.eureka: 'WARN'
